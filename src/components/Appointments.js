@@ -4,8 +4,8 @@ import HeaderComponent from './HeaderComponent'
 export default function Appointments() {
     return (
         <>
-            <HeaderComponent></HeaderComponent>
             <div>Appointments</div>
+            <h1>This page is under development......</h1>
         </>
     )
 }
